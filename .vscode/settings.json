@@ -1,0 +1,15 @@
+{
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.autoLockGroups": {
+        "workbench.input.interactive": true,
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "workbench.editors.gettingStartedInput": true,
+        "hediet.vscode-drawio": true,
+        "mainThreadWebview-markdown.preview": true,
+        "mfcobol-notebook": true,
+        "luna.editor": true
+    },
+    "workbench.editor.customLabels.enabled": true,
+    "workbench.editor.alwaysShowEditorActions": true
+}
